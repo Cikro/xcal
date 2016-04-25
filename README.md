@@ -8,10 +8,10 @@ E-mail: norkic@mail.uoguelph.ca <br />
 Compatability
 --------------------------------------------------------------------------------
 #####Requires:
-    gcc 5.2.1 <br />
-    Python 3.4.3 <br />
-    Tkinter based on Tcl/Tk 8.6.0 <br />
-    mySQL version 5.5 <br />
+    gcc 5.2.1 
+    Python 3.4.3 
+    Tkinter based on Tcl/Tk 8.6.0 
+    mySQL version 5.5 
 
 Tested using above on Ubuntu 15.10 (64-bit)
 
