@@ -7,7 +7,7 @@ E-mail: norkic@mail.uoguelph.ca <br />
 
 Compatability
 --------------------------------------------------------------------------------
-#####Requires: <br />
+#####Requires:
     gcc 5.2.1 <br />
     Python 3.4.3 <br />
     Tkinter based on Tcl/Tk 8.6.0 <br />
