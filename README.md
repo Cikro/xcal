@@ -12,7 +12,7 @@ Compatability
     Python 3.4.3 <br />
     Tkinter based on Tcl/Tk 8.6.0 <br />
     mySQL version 5.5 <br />
-<br />
+
 Tested using above on Ubuntu 15.10 (64-bit)
 
 Description
