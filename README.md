@@ -37,10 +37,10 @@ How to compile and run
 To compile, type the command 'make' into the terminal window. <br />
 
 To run, type the command: <br />
-        './xcal.py  'username' 'hostname''. <br />
+		'./xcal.py  'username' 'hostname''. <br />
 
 If you wish to run the program without database features, type the command: <br />
-        './xcal_noSQL.py' <br />
+		'./xcal_noSQL.py' <br />
             
 
 Keyboard Shortcuts
