@@ -18,7 +18,7 @@ Tested using above on Ubuntu 15.10 (64-bit)
 Description
 --------------------------------------------------------------------------------
 xcal is an iCalendar file (.ics) utility that allows you to view  information about a calendar's components,
-it's events, and X-Properties. It also allows you to filter a calendar down to only it's events or to-do
+its events, and X-Properties. It also allows you to filter a calendar down to only its events or to-do
 components between a desired period, combine two calendars, and keep check off to-do components to remove them from the
 calendar as they are completed. <br />
 Finally, you may store event and todo components along with information about the organizers of those components in a 
